@@ -1,4 +1,4 @@
 # hello-world
 first try to use
-##first case
+#first case
 This is xie's first try.
